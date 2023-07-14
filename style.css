@@ -1,0 +1,23 @@
+.fa{
+    color: blue;
+}
+
+.box-part{
+    background-color: white;
+    text-align: center;
+    padding: 50px 10px;
+    margin:30px opx;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.span{
+    font-size: 12px;
+    align-items: center;
+}
+
+.box{
+    background-color:rgb(230, 230, 230);
+    padding: 20px 5px;
+}
